@@ -34,6 +34,6 @@ Hi, I'm Jimmy Loloy, I'm a Junior Developer Frontend and Web Designer, with a pa
 ----
 
 ## 🤝 Inspirations:
- * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
- * [Visitor Badge](https://visitor-badge.laobi.icu/){:target="_blank"}
- * [Badges](https://img.shields.io/){:target="_blank"}
+ * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+ * [Visitor Badge](https://visitor-badge.laobi.icu/)
+ * [Badges](https://img.shields.io/)
