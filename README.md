@@ -3,7 +3,7 @@
 Hi, I'm Jimmy Loloy, I'm a Junior Developer Frontend and Web Designer, with a passion for sharing knowledge and always open to feedback.
 
 <!-- - 🔭 I’m currently working on... -->
-### 💙 I’m collaborate with [OpenTech Community](https://www.github.com/opentech-pe).
+### 💙 I’m collaborate with <a href="http://github.com/opentech-pe" target="_blank">OpenTech Community</a>.
 
 ## 📫 How to reach me
 
