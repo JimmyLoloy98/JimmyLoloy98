@@ -1,6 +1,7 @@
 # Welcome to my Garden 👋
 
-Hi, I'm Jimmy Loloy, I'm a Junior Developer Frontend and Web Designer, with a passion for sharing knowledge and always open to feedback.
+Hi, I'm Jimmy Loloy. 
+💎 Self-learner and Techlover, 💻 Designer/Developer in growth - 📊 Marketing passionate - 👥 Organizer at OpenTech Community - 🎼 I love Music - Play Drums.
 
 <!-- - 🔭 I’m currently working on... -->
 ### 💙 I’m collaborate with [OpenTech Community](https://github.com/opentech-pe).
