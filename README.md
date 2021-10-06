@@ -30,6 +30,10 @@ Hi, I'm Jimmy Loloy.
 
 ----
 
+<a href="https://app.daily.dev/JimmyLoloy98"><img src="https://api.daily.dev/devcards/b7131bd0e6f547c09883de8da80a6810.png?r=rgr" width="400" alt="Jimmy Erick Loloy Laurencio's Dev Card"/></a>
+
+----
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JimmyLoloy98.JimmyLoloy98)
 
 ----
