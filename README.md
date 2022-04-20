@@ -14,6 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JimmyLoloy98-00599C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JimmyLoloy98/)](https://www.linkedin.com/in/JimmyLoloy98) &nbsp;&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-JimmyLoloy98-007ACC?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/JimmyLoloy98/)](https://www.twitter.com/JimmyLoloy98) &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-JimmyLoloy98-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/JimmyLoloy98/)](https://www.instagram.com/JimmyLoloy98) &nbsp;&nbsp;
+[![Telegram Badge](https://img.shields.io/badge/-JimmyLoloy98-white?style=flat-square&logo=telegram&link=https://t.me/JimmyLoloy98)](https://t.me/JimmyLoloy98) &nbsp;&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-JimmyLoloy98-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JimmyLoloy98/)](https://www.facebook.com/JimmyLoloy98)
 
 ### 🌱 Tech Stack
