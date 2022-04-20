@@ -4,7 +4,7 @@ Hi, I'm Jimmy Loloy.
 💎 Self-learner and Techlover, 💻 Designer/Developer in growth - 📊 Marketing passionate - 👥 Organizer at OpenTech Community - 🎼 I love Music - Play Drums.
 
 <!-- - 🔭 I’m currently working on... -->
-### 💙 I’m collaborate with [OpenTech Community](https://github.com/opentech-pe).
+### 💙 I collaborate with [OpenTech Community](https://github.com/opentech-pe).
 
 ## 📫 How to reach me
 
