@@ -31,6 +31,8 @@ Hi, I'm Jimmy Loloy.
 ----
 
 <a href="https://app.daily.dev/JimmyLoloy98"><img src="https://api.daily.dev/devcards/b7131bd0e6f547c09883de8da80a6810.png?r=rgr" width="400" alt="Jimmy Erick Loloy Laurencio's Dev Card"/></a>
+$nbsp;
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&redirect=true)
 
 ----
 
