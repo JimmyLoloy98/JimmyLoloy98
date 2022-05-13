@@ -40,6 +40,12 @@
 
 ----
 
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JimmyLoloy98&theme=dracula&hide_border=true)
+
+----
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&redirect=true)
 
 ----
