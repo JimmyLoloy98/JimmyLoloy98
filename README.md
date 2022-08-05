@@ -23,7 +23,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) &nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-thistle?style=flat-square&logo=Sass) &nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-midnightblue?style=flat-square&logo=Tailwindcss) &nbsp;
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-thistle?style=flat-square&logo=chakraui) &nbsp;
+![AntDesign](https://img.shields.io/badge/-AntDesign-1572B6?style=flat-square&logo=antdesign) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-silver?style=flat-square&logoColor=black&logo=Figma) &nbsp;
