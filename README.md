@@ -1,11 +1,11 @@
 ## 👋 Welcome!
 
-* 💻 Tech Student 💙
+* 💻 Tech Lover 💙
 * 🗣️ [OpenTech](https://github.com/opentech-pe) organizer
 * 📫 How to reach me: loloy.laurencio@gmail.com
 * 💬 *Ask me anything, I like to talk*
 * 😄 My pronouns are `he/him/él`
-* 🚵 #MTB #XC
+* 🚵 #MTB #Trekking #
 * 🚀 Fun fact: I'm a garage musician
 
 
@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) &nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-thistle?style=flat-square&logo=Sass) &nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-midnightblue?style=flat-square&logo=Tailwindcss) &nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-midnightblue?style=flat-square&logo=Tailwindcss) &nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-thistle?style=flat-square&logo=chakraui) &nbsp;
 ![AntDesign](https://img.shields.io/badge/-AntDesign-1572B6?style=flat-square&logo=antdesign) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
@@ -40,16 +40,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JimmyLoloy98&count_private=true&show_icons=true&include_all_commits=true&theme=gotham) &nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyLoloy98&hide=TeX&layout=compact&theme=gotham)
-
-----
-
-### Activity Trends
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JimmyLoloy98&theme=dracula&hide_border=true)
-
-----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8krir1wpbazl9zxi2grpac68i&redirect=true)
 
 ----
 
